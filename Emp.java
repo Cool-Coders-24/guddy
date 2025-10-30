@@ -3,5 +3,6 @@ class  Emp
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello team!");
+		system.out.println("welcome to hello world");
 	}
 }
